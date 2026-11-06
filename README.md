@@ -137,7 +137,7 @@
 
     <div class="card" id="mainCard">
         <div class="heart-icon">❤️</div>
-        <h1 id="headline">Will you be my Best Best Bestest Friend Jii?🎀🎀</h1>
+        <h1 id="headline">Will you be my Best Best Bestest Friend Theneyy?🎀🎀</h1>
         <div class="btn-wrapper">
             <button class="btn" id="yesBtn">YES!</button>
             <button class="btn" id="noBtn">No</button>
@@ -162,7 +162,7 @@
 
         // Logic for "Yes" click
         yesBtn.addEventListener('click', () => {
-            headline.innerHTML = "I'm the luckiest! ❤️<br>  Lub Uh ji🫣🙈";
+            headline.innerHTML = "I'm the luckiest! ❤️<br>  Thank Youhh....Lub Uh HONEYYY🫣🙈";
             headline.style.color = "#ff85a1";
             noBtn.style.display = 'none';
             yesBtn.style.display = 'none';
